@@ -30,7 +30,7 @@
                         }
                         break;
                         case "FindMean":
-                        output = number + preVal/2;
+                        output = number + preVal/2.0f;
                         break;
                         
                         }           
